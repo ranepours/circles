@@ -1,6 +1,5 @@
 import React from "react";
 import ColoredCircles from "./colorCircles";
-import './App.css';
 
 function App() {
   return (
